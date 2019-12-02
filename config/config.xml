@@ -1,0 +1,13 @@
+<config>
+  <nomeBanco>dbblvendas</nomeBanco>
+  <usuario>root</usuario>
+  <senha></senha>
+  <ip>localhost</ip>
+  <caminhoMySQL>C:\xampp\mysql\bin\</caminhoMySQL>
+  <quantidadeMesas>72</quantidadeMesas>
+  <ambiente>0</ambiente>
+  <onOfLine>0</onOfLine>
+  <impressoraPDV>EPSON TM-T20 Receipt</impressoraPDV>
+  <impressoraCozinha>Generic / Text Only</impressoraCozinha>
+  <impressoraDelivery>Generic / Text Only</impressoraDelivery>
+</config>
